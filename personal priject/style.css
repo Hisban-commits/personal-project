@@ -1,0 +1,16 @@
+
+a link{
+    color: black;
+    background-color: transparent;
+    text-decoration: none;
+}
+a :visited{
+    color: brown;
+    background-color: transparent;
+    text-decoration: none;
+}
+a :hover{
+    color: pink;
+    background-color: transparent;
+    text-decoration: none;
+}
